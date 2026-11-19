@@ -103,12 +103,4 @@ The evaluation showed promising legal accuracy and relevance, while identifying 
 - Improve handling of complex and multi-part legal questions.
 - Further improve response quality through model fine-tuning and prompt optimization.
 
-## Disclaimer
 
-This chatbot is designed to provide preliminary legal information based on retrieved Ethiopian legal documents. It is not a substitute for professional legal advice or consultation with a qualified lawyer.
-
-## Author
-
-**Elshaday Desalegn**
-
-Interested in Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, and AI applications for low-resource languages.
